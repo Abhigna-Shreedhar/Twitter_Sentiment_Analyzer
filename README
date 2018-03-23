@@ -1,0 +1,1 @@
+This python-based sentiment analyzer program uses the bag of words model to analyze all tweets with the specified word and based on this observation, it specifies the emotion associated with that word over Twitter.
